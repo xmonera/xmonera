@@ -62,7 +62,7 @@ The xmonera ecosystem also utilizes FIPS 204, intended as the primary standard f
 The Xmonera R&D Labs are working with FIPS 205, also designed for digital signatures, a standard that employs the Sphincs+ algorithm, which has been renamed SLH-DSA, short for Stateless Hash-Based Digital Signature Algorithm. The standard is based on a different math approach than ML-DSA, and it is intended as a backup method in case ML-DSA proves vulnerable..
 
 ## 🤝 Join the Community
-- 💬 [Discord](https://discord.gg/yourdiscordlink)
+- 💬 [Discord]([https://discord.gg/yourdiscordlink](https://discord.com/channels/1444925742680117342/1444925743598665799)
 - 🐦 [Twitter](https://twitter.com/xmonera)
 - 📢 [Telegram](https://t.me/xmonera)
 
