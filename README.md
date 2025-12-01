@@ -19,11 +19,11 @@ Xmonera is a quantum-proof, decentralized cryptocurrency ecosystem designed for 
 
 ## ⚡ Competitive Advantage
 | Feature               | Xmonera  | Competitor A |
-|----------------------|---------|-------------|
-| Zero Slippage       | ✅       | ❌           |
-| Layer-2 Integration | ✅       | Partial     |
-| Quantum-Safe Tech   | ✅       | ❌           |
-| Multi-Chain Support | ✅       | ❌           |
+|----------------------|---------|----------------|
+| Zero Slippage       | ✅       | ❌            |
+| Layer-2 Integration | ✅       | Partial        |
+| Quantum-Safe Tech   | ✅       | ❌            |
+| Multi-Chain Support | ✅       | ❌            |
 
 ## 📜 Whitepaper
 Dive deep into our mission and tokenomics: [Xmonera Whitepaper](https://github.com/xmonera/xmonera-whitepaper/blob/main/Xmonera_Whitepaper.pdf)
@@ -44,10 +44,10 @@ npm run start:testnet
 ### **2024**
 - ✅ Smart contract audits
 - ✅ Exchange beta launch
-- 🚀 Mainnet launch (Q3 2024)
-- 🏦 Staking & yield farming (Q4 2024)
+- 🚀 Mainnet launch (Q3 2026)
+- 🏦 Staking & yield farming (Q4 2026)
 
-### **2025**
+### **2027**
 - 📱 Mobile app launch
 - 🏛️ DAO governance implementation
 - 🔗 Cross-chain integration
