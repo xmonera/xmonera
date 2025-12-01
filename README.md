@@ -41,7 +41,7 @@ npm run start:testnet
 ```
 
 ## 🗺️ Roadmap
-### **2024**
+### **2026**
 - ✅ Smart contract audits
 - ✅ Exchange beta launch
 - 🚀 Mainnet launch (Q3 2026)
